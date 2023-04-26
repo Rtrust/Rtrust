@@ -5,10 +5,15 @@
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **Data engineering/ Analytics**
+- 
 - 🌱 I’m currently learning **pyspark and data modeling**
+- 
 - 👯 I’m looking to collaborate on: **Data engineering models and data analytics**
+
 - 🤔 I’m looking for help with **Learning python**
+- 
 - 💬 Ask me about **Technology, Basketball, History, Nature.**
+- 
 - ⚡ Fun fact: **Charles Babbage's 1800s "Analytical Engine" laid the groundwork for modern computers, using punched cards for input and featuring a CPU and memory.**
 
 # *I am willing to collaborate as a team player building better code.*
@@ -34,7 +39,6 @@
   <a href="https://www.facebook.com/aminee.zenkhri/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
   <a href="https://www.instagram.com/amine_zenkoo/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   
-    <a href="mailto:zenkhriamine@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     
   </p>
 
