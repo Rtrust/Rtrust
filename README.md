@@ -7,7 +7,7 @@
 ### <h2>Hola! 🙏🏻, I'm Amine!
   </br>
 
-<img align="left"  src="<iframe src="https://giphy.com/embed/xUA7b7yLPq3IPOLnk4" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-kawaii-xUA7b7yLPq3IPOLnk4">via GIPHY</a></p>"Amine Zenkhri" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Amine Zenkhri" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
