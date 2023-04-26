@@ -2,18 +2,19 @@
   </br>
 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **Data engineering/ Analytics**
-- 
+
 - 🌱 I’m currently learning **pyspark and data modeling**
-- 
+
 - 👯 I’m looking to collaborate on: **Data engineering models and data analytics**
 
 - 🤔 I’m looking for help with **Learning python**
-- 
+
 - 💬 Ask me about **Technology, Basketball, History, Nature.**
-- 
+
 - ⚡ Fun fact: **Charles Babbage's 1800s "Analytical Engine" laid the groundwork for modern computers, using punched cards for input and featuring a CPU and memory.**
 
 # *I am willing to collaborate as a team player building better code.*
