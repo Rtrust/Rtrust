@@ -4,7 +4,7 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Data engineering**
+- 🔭 I’m currently more into the **Data engineering/ Analytics**
 - 🌱 I’m currently learning **pyspark and data modeling**
 - 👯 I’m looking to collaborate on: **Data engineering models and data analytics**
 - 🤔 I’m looking for help with **Learinig python**
@@ -20,6 +20,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
 ### Some of the technologies I have worked with-</br>
+![Google_Colab](http://img.shields.io/badge/-GC%20Code-000000?style=for-the-badge&logo=Google-colab-code&logoColor=orange)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
@@ -29,9 +30,8 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
-    <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <p align="center"> 
+    <a href="https://www.linkedin.com/in/amine-zenkhri/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.facebook.com/naimish.awasthi.98" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
   <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   <a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
